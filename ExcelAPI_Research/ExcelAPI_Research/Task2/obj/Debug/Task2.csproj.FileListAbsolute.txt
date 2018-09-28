@@ -1,0 +1,10 @@
+C:\Users\vinhqnguyen\Documents\0_VinhQNguyen\Excel API Research\Projects\ExcelAPI_Research\ExcelAPI_Research\Task2\bin\Debug\Task2.exe.config
+C:\Users\vinhqnguyen\Documents\0_VinhQNguyen\Excel API Research\Projects\ExcelAPI_Research\ExcelAPI_Research\Task2\bin\Debug\Task2.exe
+C:\Users\vinhqnguyen\Documents\0_VinhQNguyen\Excel API Research\Projects\ExcelAPI_Research\ExcelAPI_Research\Task2\bin\Debug\Task2.pdb
+C:\Users\vinhqnguyen\Documents\0_VinhQNguyen\Excel API Research\Projects\ExcelAPI_Research\ExcelAPI_Research\Task2\bin\Debug\ExcelUtils.dll
+C:\Users\vinhqnguyen\Documents\0_VinhQNguyen\Excel API Research\Projects\ExcelAPI_Research\ExcelAPI_Research\Task2\bin\Debug\ExcelUtils.pdb
+C:\Users\vinhqnguyen\Documents\0_VinhQNguyen\Excel API Research\Projects\ExcelAPI_Research\ExcelAPI_Research\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+C:\Users\vinhqnguyen\Documents\0_VinhQNguyen\Excel API Research\Projects\ExcelAPI_Research\ExcelAPI_Research\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\vinhqnguyen\Documents\0_VinhQNguyen\Excel API Research\Projects\ExcelAPI_Research\ExcelAPI_Research\Task2\obj\Debug\Task2.csproj.CopyComplete
+C:\Users\vinhqnguyen\Documents\0_VinhQNguyen\Excel API Research\Projects\ExcelAPI_Research\ExcelAPI_Research\Task2\obj\Debug\Task2.exe
+C:\Users\vinhqnguyen\Documents\0_VinhQNguyen\Excel API Research\Projects\ExcelAPI_Research\ExcelAPI_Research\Task2\obj\Debug\Task2.pdb
